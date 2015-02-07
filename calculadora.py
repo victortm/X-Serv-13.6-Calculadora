@@ -5,7 +5,7 @@
 Calculadora
 
 Para ejecutarlo, desde la shell:
-$ python calculator.py función operando1 operando2
+$ python calculadora.py función operando1 operando2
 
 Las funciones disponibles son: sum, rest, mult y div
 
